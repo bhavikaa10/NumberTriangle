@@ -55,7 +55,6 @@ public class NumberTriangle {
 
 
     /**
-     * [not for credit]
      * Set the root of this NumberTriangle to be the max path sum
      * of this NumberTriangle, as defined in Project Euler problem 18.
      * After this method is called, this NumberTriangle should be a leaf.
